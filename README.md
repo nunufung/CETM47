@@ -4,6 +4,18 @@ Understanding  of  the professional,  ethical,  social  and  legalconsiderations
 # Reference: -
 https://books.google.com.hk/books?id=rYFvnyPRwkgC&lpg=PA121&ots=6eEIjuPwO4&dq=ends%2C%20%20tools%2C%20%20and%20%20current%20%20developments%20%20in%20%20the%20%20areas%20%20of%20Machine%20Learning%2C%20Data%20Mining%20and%20Data%20Analytics%20&lr&pg=PA116#v=onepage&q&f=false
 
+https://medium.com/coinmonks/predicting-product-sales-through-ads-delivered-on-social-networking-sites-using-k-n-n-in-python-b9f955d184af
+
+https://www.sciencedirect.com/science/article/pii/S0268401217308526
+
+https://link.springer.com/article/10.1007/s41109-019-0134-3
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218957
+
+https://muse.jhu.edu/article/663709
+
+
+
 # Machine learning trends
 https://www.kdnuggets.com/2020/03/trends-machine-learning-2020.html 
 https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/#5a6652302323
